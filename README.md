@@ -78,12 +78,10 @@ To provide an interactive and easy-to-understand view of player performance acro
 ## 📸 Dashboard Preview
 
 ### Batting Analysis
-https://github.com/Abhishek211295/ESPN-Cricket-Data-Analysis-Dashboard/blob/main/Batting.PNG
+<img width="1344" height="753" alt="image" src="https://github.com/user-attachments/assets/4c2064fc-27ea-459b-bfbc-630731221826" />
 
 ### Bowling Analysis
-https://github.com/Abhishek211295/ESPN-Cricket-Data-Analysis-Dashboard/blob/main/Bowling.PNG
 <img width="1386" height="781" alt="image" src="https://github.com/user-attachments/assets/581c2cc0-91db-4d09-9abf-8e624b5d472d" />
 
-
 ### Fielding Analysis
-https://github.com/Abhishek211295/ESPN-Cricket-Data-Analysis-Dashboard/blob/main/Feiding.PNG
+<img width="1345" height="756" alt="image" src="https://github.com/user-attachments/assets/b09b017e-bf14-4228-964c-d7425163fc5d" />
