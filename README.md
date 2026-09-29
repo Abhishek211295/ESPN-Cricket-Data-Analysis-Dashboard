@@ -82,6 +82,8 @@ https://github.com/Abhishek211295/ESPN-Cricket-Data-Analysis-Dashboard/blob/main
 
 ### Bowling Analysis
 https://github.com/Abhishek211295/ESPN-Cricket-Data-Analysis-Dashboard/blob/main/Bowling.PNG
+<img width="1386" height="781" alt="image" src="https://github.com/user-attachments/assets/581c2cc0-91db-4d09-9abf-8e624b5d472d" />
+
 
 ### Fielding Analysis
 https://github.com/Abhishek211295/ESPN-Cricket-Data-Analysis-Dashboard/blob/main/Feiding.PNG
